@@ -1,5 +1,5 @@
 #include <stdio.h>
-//標準體重計算
+//標準體重計算https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30792
 int main(){
     int height, gender;
     float oupt;
